@@ -72,3 +72,27 @@ thead{
 .odd{
     background-color: lightskyblue;
 }
+
+#top-img{
+    background-image: url(./img/img/monitor.jpg);
+}
+
+#bottom-img{
+    background-image: url(./img/img/graph.jpg);
+}
+
+.img-square{
+    height: 208px;
+    width: 312px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+    font-weight: 900;
+    padding: 10px 10px;
+}
+
+h3{
+    margin: 20px 0;
+    color: gray;
+}
