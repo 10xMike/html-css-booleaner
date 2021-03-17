@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    background-color: cornflowerblue;
+    background-image: url(./img/img/pattern.png);
+    background-size: 20%;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+
+.pl-10{
+    padding-left: 10px;
+}
+
+#author{
+    color: grey;
+}
+
+.name{
+    color: cornflowerblue;
+}
+
+#date{
+    font-size: 15px;
+    color: gray;
+}
+
+.images{
+    margin-top: 20px;
+}
+
+.caption{
+    font-size: 15px;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table{
+    margin: 40px 0;
+    text-align: left;
+    border-spacing: 0;
+}
+thead{
+    background-color: cyan;
+    color: white;
+}
+.wide-column{
+    width: 60%;
+}
+
+.odd{
+    background-color: lightskyblue;
+}
